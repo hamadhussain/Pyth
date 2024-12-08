@@ -1,0 +1,8 @@
+Employee ID,First Name,Last Name,Department,Position,Hire Date,Email,Phone Number,Gender
+1,John,Doe,Sales,Sales Manager,1/15/2020,john.doe@example.com,555-0123,Male
+2,Jane,Smith,Marketing,Marketing Specialist,3/22/2019,jane.smith@example.com,555-0456,Female
+3,Mike,Johnson,IT,Software Engineer,7/30/2021,mike.johnson@example.com,555-0789,Male
+4,Emily,Davis,HR,HR Coordinator,5/10/2018,emily.davis@example.com,555-1011,Female
+5,David,Brown,Finance,Financial Analyst,11/5/2022,david.brown@example.com,555-1213,
+6,Sarah,Wilson,Operations,Operations Manager,9/15/2019,sarah.wilson@example.com,555-1415,Female
+7,Chris,Lee,Customer Service,Customer Service Rep,2/20/2023,chris.lee@example.com,555-1617,

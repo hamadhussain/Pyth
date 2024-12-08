@@ -1,0 +1,55 @@
+in house price prediction 
+there is suppose four data sets only like in array of 40000,40007,40008,40009
+use these variables are 
+Variables:
+WithRoomBathroomNO = k
+Number of rooms with bathrooms.
+
+WithOutRoomBathroomNO = b
+Number of rooms without bathrooms.
+
+TotalRooms = k + b
+Total number of rooms.
+
+guestRoomsNo = gt
+Number of guest rooms.
+
+guestRoomPrice = [american type value]
+Price per guest room.
+
+bathroomPrice = [american type value] = bt
+Price per bathroom.
+
+size_of_house = [american type value]
+Value representing the size of the house.
+
+storeRoomPrice = [american type value]
+Price per store room.
+
+store_rooms_no = s
+Number of store rooms.
+
+swimmingPoolPrice = [american type value]
+Price per swimming pool.
+
+swimming_pools_total = p
+Total number of swimming pools.
+
+gardenPrice = [american type value]
+Value associated with the garden.
+
+garagePrice = [american type value]
+Price per garage.
+
+garageno = ga
+Number of garages.
+
+roomPrice = rp = [american type value]
+Price per room without bathroom.
+
+Total House Price Calculation:
+The total house price can be calculated as follows:
+
+
+and the function in which there is a these (these variables) argument on it
+\text{Total House Price} = (\text{WithRoomBathroomNO} \times \text{roomPrice}) + (\text{WithOutRoomBathroomNO} \times \text{roomPrice}) + (\text{guestRoomsNo} \times \text{guestRoomPrice}) + (\text{WithRoomBathroomNO} \times \text{bathroomPrice}) + (\text{store_rooms_no} \times \text{storeRoomPrice}) + (\text{swimming_pools_total} \times \text{swimmingPoolPrice}) + (\text{gardenPrice}) + (\text{garageno} \times \text{garagePrice})
